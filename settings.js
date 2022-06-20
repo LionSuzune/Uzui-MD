@@ -19,7 +19,7 @@
   }
 
   // Setting Owner
-  global.owner = ['62887433094409','6285795586847','62887433094409'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+  global.owner = ['62887433094409','6285795586847','6285881185481'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
   global.premium = ['6285795586847'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
   global.ownernomer = '6285795586847' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
